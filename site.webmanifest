@@ -1,0 +1,23 @@
+{
+    "name": "tataboga.biz.id",
+    "short_name": "tataboga",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZYYfZCJwszR4iMKIQ4bsMsstvAe7OY9qhyuXNjRPozhnHp_dZxgkwZLMGhVCSK4aLqJN5r3GWkUmnqegXdhAljdxdFs692idehMYQKA0A4-PhXEjHA1gvywZ90ZdkEotbKGA1cpA5lJQh1o_0DDOSTcDzAs_uad9JayXdaeq3tonfkN9oTrkbwlvvqKM/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJTKVfUbMBaVcbMq-UxvJSdLIMqIXXESMhPLjmMhVjg0hKosYwoiI65GdnuGMYu3j6GL3zY7fqQiov8vsgdoccHv2FnItGIjBBKjvVUJ0y3gx0LH7aPUQqiSTNfGKNfUa9_vbAyJ0ZXdUvlQBwJ7AsY8soZAcvZMZZSvcjYQambK4aANu5QGNpL-5M21w/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.tataboga.biz.id"
+}
